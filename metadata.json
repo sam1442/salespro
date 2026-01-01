@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sellespro POS",
+  "description": "A comprehensive sales management system with multi-user interfaces, shift tracking, real-time inventory management, and AI-driven sales analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
